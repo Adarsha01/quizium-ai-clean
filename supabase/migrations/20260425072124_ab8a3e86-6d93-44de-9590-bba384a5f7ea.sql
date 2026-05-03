@@ -1,0 +1,1 @@
+ALTER TABLE public.pdfs ADD COLUMN IF NOT EXISTS description TEXT;
